@@ -69,7 +69,7 @@ pygame
 
 🚀 Installation
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/HandSnakeProject.git
+git clone https://github.com/zeeshan2204/HandSnakeProject.git
 cd HandSnakeProject
 
 2️⃣ Install dependencies
@@ -193,3 +193,4 @@ Hand moving → snake turning
 Pinch → speed boost
 
 Game over → UP gesture → restart
+
