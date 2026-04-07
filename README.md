@@ -6,12 +6,12 @@ A modern twist on the classic Nokia Snake game using real-time hand gesture reco
 
 ## Features
 
-- 🎮 Control snake using hand gestures  
-- ✋ Real-time hand tracking using MediaPipe  
-- 🔥 Pinch gesture for speed boost  
-- 🧠 AI-based gesture recognition  
-- 🖥️ Classic Nokia-style snake UI  
-- ⚡ Multi-threaded performance  
+- Control snake using hand gestures  
+- Real-time hand tracking using MediaPipe  
+- Pinch gesture for speed boost  
+- AI-based gesture recognition  
+- Classic Nokia-style snake UI  
+- Multi-threaded performance  
 
 ---
 
